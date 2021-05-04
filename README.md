@@ -3,4 +3,4 @@
 ### SPICalculator
 #### SPI Calculator - Swing
 
-<img src="src/icon/SPICalculator.gif" width="700"/>
+<img src="src/outputVideo/SPICalculator.gif" width="700"/>
